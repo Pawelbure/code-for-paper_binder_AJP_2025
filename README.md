@@ -7,4 +7,6 @@ You can run the notebooks via binder (see link below). It is recommended to run 
 Note: Results in your computations might differ from the exemplary use cases in the paper.
 
 ### Link to the binder:
-https://mybinder.org/v2/gh/Pawelbure/colab-binder_WoC_AJP_2025/main
+
+https://mybinder.org/v2/gh/Pawelbure/code-for-paper\_binder\_AJP\_2025/main
+
