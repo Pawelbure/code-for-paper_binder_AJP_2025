@@ -1,4 +1,4 @@
-# Wind of Change!? -- Exemplary use cases of AI in physics for future physics curricula
+# Artificial Neural Networks learn physics -- Motivating examples of AI applications in physics research for the undergraduate physics curriculum
 
 The entire code for the manuscript can be found in this repo. Please be aware that the code is inspired by the listed references cited on top of each notebook.
 
